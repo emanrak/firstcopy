@@ -935,7 +935,7 @@
     "gulp-typescript": "^5.0.1",
     "jest": "^24.8.0",
     "jest-html-reporter": "^2.4.0",
-    "jsdom": "11.11.0",
+    "jsdom": "16.5.0",
     "log4js": "3.0.5",
     "markdownlint-cli": "^0.16.0",
     "run-sequence": "^2.2.1",
